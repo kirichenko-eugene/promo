@@ -1,0 +1,75 @@
+.bg {
+	background: url("../../img/moto.jpg");
+	background-color: #870203;
+	width: auto;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+
+.bg-text {
+	color: #fff;
+	font-size: 1.5rem;
+	background-color: rgba(135, 2, 3, 1);
+	width: 100%;
+	height: 15%;
+}
+
+.bg-text p {
+	margin: 0;
+}
+
+.goodlink {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.action-block {
+	width: 100%;
+	height: 100vh;
+	/*background: url(../img/gamepad.png) no-repeat 100% 100%;*/
+	background-color: rgba(135, 2, 3, 1);
+	background-size: 38% auto;
+}
+
+.modal-bg {
+	background-color: #870203 ;
+}
+
+.action-text {
+	color: white;
+	font-size: 0.8rem;
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.modal-body-style {
+	font-size: 0.8rem;
+}
+
+.form-block {
+	width: 100%;
+	height: 100vh;
+	/*background: url(../img/gamepad.png) no-repeat 100% 100%, url(../img/kb.png) no-repeat 50% 5%;*/
+	background-color: rgba(0, 36, 255, 1);
+	background-size: 38% auto, 17% auto;
+}
+
+.form-width {
+	max-width: 90%;
+}
+
+form label, form small {
+	color: #fff;
+}
+
+.result-table {
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+.promo-table-name {
+	font-size: 1.2rem;
+	font-weight: bold;
+}
